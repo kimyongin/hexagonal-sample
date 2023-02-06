@@ -1,9 +1,6 @@
 rootProject.name = 'hexagonal'
 include 'publisher'
 include 'publisher-adapter'
-include 'publisher-port'
-include 'publisher-service'
-include 'publisher-domain'
-include 'publisher-app'
-include 'publisher-port'
+include 'publisher-application'
+include 'publisher-configuration'
 

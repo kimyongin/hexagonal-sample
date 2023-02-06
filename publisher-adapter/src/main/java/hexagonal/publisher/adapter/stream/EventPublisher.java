@@ -2,8 +2,8 @@ package hexagonal.publisher.adapter.stream;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import hexagonal.publisher.application.port.out.PublishEventPort;
 import hexagonal.publisher.domain.Event;
+import hexagonal.publisher.port.out.PublishEventPort;
 import java.util.UUID;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

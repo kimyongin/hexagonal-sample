@@ -1,8 +1,8 @@
 package hexagonal.publisher.adapter.web;
 
 
-import hexagonal.publisher.application.port.in.LinkEventUseCase;
 import hexagonal.publisher.domain.Event;
+import hexagonal.publisher.port.in.LinkEventUseCase;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
