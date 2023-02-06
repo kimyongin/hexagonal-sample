@@ -1,4 +1,4 @@
-package hexagonal.publisher.config;
+package hexagonal.config;
 
 import java.util.HashMap;
 import java.util.Map;

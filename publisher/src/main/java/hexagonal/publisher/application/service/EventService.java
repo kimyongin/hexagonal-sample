@@ -1,4 +1,4 @@
-package hexagonal.publisher.application;
+package hexagonal.publisher.application.service;
 
 import hexagonal.publisher.adapter.in.web.LinkEventWebAdapter;
 import hexagonal.publisher.application.port.in.LinkEventUseCase;
