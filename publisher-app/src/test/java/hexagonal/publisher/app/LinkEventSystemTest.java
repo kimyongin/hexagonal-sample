@@ -1,4 +1,4 @@
-package hexagonal.publisher;
+package hexagonal.publisher.app;
 
 import java.time.Duration;
 import java.util.Collections;
